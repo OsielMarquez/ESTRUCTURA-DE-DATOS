@@ -1,7 +1,7 @@
 package EVA1_13;
 import java.util.Scanner;
 
-public class Eva1_13_Capturar_Califas {
+public class EVA1_13_Capturar_Califas {
 
     public static void main(String[] args) {
 
