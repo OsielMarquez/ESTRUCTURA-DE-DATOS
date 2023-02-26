@@ -1,6 +1,6 @@
 package EVA1_15_Factorial;
 
-public class EVA15Facorial {
+public class EVA1_15_Facorial {
 
     public static void main(String[] args) {
 
