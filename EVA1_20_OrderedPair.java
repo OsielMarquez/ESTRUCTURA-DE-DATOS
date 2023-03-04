@@ -2,7 +2,7 @@ package EVA1_20;
 
 import java.util.Arrays;
 
-public class Eva1_20_OrderedPair {
+public class EVA1_20_OrderedPair {
 
 	public static void main(String[] args) {
 		printAllPossibleOrderedPairs(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
